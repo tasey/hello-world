@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+Finished the tutorial for github.
